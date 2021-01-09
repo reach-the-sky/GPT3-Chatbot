@@ -4,22 +4,22 @@
 
 This is a GPT 3 python project that allows you to train the chatbot and chat with it.
 
-Requirements
+#### Requirements
 > Openai key ( visit: [openai beta access](https://beta.openai.com) to get your api key)
 
 > pip install openai
 
-You can use this code as the skeleton for your project.
+#### You can use this code as the skeleton for your project.
 
 > Warning: `Use the tokens wisely, it is prefered to use davinci engine`
 
-Download the code:
+#### Download the code:
 
 > git clone https://github.com/reach-the-sky/GPT3-Chatbot.git
 
 > Change the variable __ai.api_key__ to your api key. 
 
-Example(Output):
+#### Example(Output):
 ![Output](Openai-gpt3-chatbot-output.png)
 
 If you liked my project and appreciate the content I opensource, consider following me on github [🌥](https://github.com/reach-the-sky).
