@@ -1,4 +1,4 @@
-<h1> Openai GPT - 3 chatbot <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width= "70"> &nbsp; <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/openai-1523664-1290202.png" width= "70"> </h1>
+<h1> Openai GPT - 3 chatbot <img src="https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png" width= "70"> &nbsp; <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/openai-1523664-1290202.png" width= "70"> </h1>
 
 ---
 
