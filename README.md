@@ -15,7 +15,7 @@ You can use this code as the skeleton for your project.
 
 Download the code:
 
-> git clone "https://github.com/reach-the-sky/GPT3-Chatbot.git"
+> git clone https://github.com/reach-the-sky/GPT3-Chatbot.git
 
 > Change the variable __ai.api_key__ to your api key. 
 
