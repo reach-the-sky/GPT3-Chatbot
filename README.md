@@ -18,3 +18,5 @@ Download the code:
 > git clone ""
 
 > Change the variable __ai.api_key__ to your api key. 
+
+If you liked my project and appreciate the content I opensource, consider following me on github [🌥](https://github.com/reach-the-sky).
