@@ -19,4 +19,7 @@ Download the code:
 
 > Change the variable __ai.api_key__ to your api key. 
 
+Example(Output):
+![Output](Openai-gpt3-chatbot-output.png)
+
 If you liked my project and appreciate the content I opensource, consider following me on github [🌥](https://github.com/reach-the-sky).
